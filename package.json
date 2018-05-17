@@ -19,5 +19,10 @@
     "mkdirp": "^0.3",
     "randomatic": "^1.1.5",
     "ssh2": "^0.5"
+  },
+  "apmInstallSource": {
+    "type": "git",
+    "source": "john-f/remote-sync",
+    "sha": "e8d0652bed8e2f91bb12418d6cbb2c4f92019cd0"
   }
 }
